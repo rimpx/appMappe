@@ -1,5 +1,8 @@
 # Windows Form Application - Mappe
 
+![The form](FormAppMappe.png)
+
+
 ## Description
 This is a Windows Form application built using C# for displaying maps and managing locations. It allows users to search for locations, save them, calculate routes between them, and visualize saved routes.
 
